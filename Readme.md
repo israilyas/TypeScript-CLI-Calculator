@@ -1,4 +1,4 @@
-# COmmands Used
+# Commands Used
 
 - npm init -y
 - tsc --init
